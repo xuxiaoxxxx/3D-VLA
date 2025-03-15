@@ -1,0 +1,6 @@
+# ninja log v5
+1	20077	1741938327	/data/xuxiaoxu/code/3dvg/3D-VLA/referit3d/external_tools/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query_gpu.o	fcdfa76364c40d17
+3	20082	1741938327	/data/xuxiaoxu/code/3dvg/3D-VLA/referit3d/external_tools/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points_gpu.o	35bee5c7394d5de
+4	20099	1741938327	/data/xuxiaoxu/code/3dvg/3D-VLA/referit3d/external_tools/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate_gpu.o	c5e3d6d05775ab2d
+5	20235	1741938327	/data/xuxiaoxu/code/3dvg/3D-VLA/referit3d/external_tools/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling_gpu.o	d42dd3c905e8c82d
+2	32510	1741938339	/data/xuxiaoxu/code/3dvg/3D-VLA/referit3d/external_tools/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/bindings.o	512efac99fb3e0c5
