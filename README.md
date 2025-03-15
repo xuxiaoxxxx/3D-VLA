@@ -19,11 +19,11 @@ you can download the pretrained weight in [this page](https://huggingface.co/ber
 
 
 ## 2D image Preparation
-To obtain the 2D projected image, you can process like:
+To obtain the 2D projected images, you can process like:
 ```
 python referit3d/data_process/generate_2d_referit3d.py --log-dir referit3d/data_process/logs/nr3d
 ```
-here you need to change the path in the generate_2d_referit3d.py.
+here you need to change the path in the generate_2d_referit3d.py. Then using the CLIP to process your projected images.
 
 
 ## Training
